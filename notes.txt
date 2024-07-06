@@ -1,0 +1,29 @@
+main-color: #313c72;
+main-shade: #838dc0;
+second-color: #cc0c01;
+second-color: #FE655D;
+
+--- index content ---
+
+menu --> Trabalhar conosco, A nossa unidade mais próxima a você, Ofertas do dia/semana, sobre nós, contate-nos 
+
+Bem Vindo Ao Nosso Site
+
+	Aqui você poderá ver todos os preços dos nossos produtos, montar uma lista de compras, verificar qual a unidade mais próxima da sua casa, conferir os horários mais movimentados e checar todas as opções de pagamento que aceitamos.
+
+*Imagem* vejas nossas ofertas  ...
+
+*imagem* Como está o movimento agora?
+
+*linha do tempo interativa* conheça a nossa linha do tempo.
+
+for while...
+
+footer *links*
+
+layout salvo pinterest
+
+
+
+
+
